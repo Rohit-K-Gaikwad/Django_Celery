@@ -1,0 +1,8 @@
+dump.rdb
+venv
+*.log
+*.pyc
+*.sql
+.idea
+.ipynb_checkpoints
+db.sqlite3
