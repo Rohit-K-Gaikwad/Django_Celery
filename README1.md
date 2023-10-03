@@ -4,4 +4,4 @@
 - **Task consumers:** These are the components that listen for tasks in the message queue and execute them. They can be multiple worker processes running on different machines.
 - **Result backend:** This is a database or message queue that is used to store the results of the tasks. The resulting backend is optional, but it can be used to retrieve the results of the tasks after they have been executed.
 
-![celery architecture](\static\Celery%20arch.png)
+![celery architecture](.\static\Celery%20arch.png)
